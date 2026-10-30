@@ -1,0 +1,893 @@
+{
+ "country": "RU-MUR",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2015-03-06",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e41edc19facbf4926f7598765496efc016a6f4bdb0904c325aa7f278dc75ff6f"
+    },
+    {
+     "from": "2015-04-09",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "df80a99fab04789811538f04f7d52f7ebd77278b777aec11138a9a5c61e6f5af"
+    },
+    {
+     "from": "2015-05-07",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "bfa06400c3c65242408ad83568cce6b2893dbafb1bb8af0c94d3e6ed5e8158f3"
+    },
+    {
+     "from": "2015-06-04",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "f9b976bc97d9cd6917826bde58b301afd04ed8dd4495dabb9e41e4e01b8a75c3"
+    },
+    {
+     "from": "2015-07-06",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "3cc74616ee6fe7e9c1f0eee826c1095d99d9cf260466e8f9d9c32d52916ee91e"
+    },
+    {
+     "from": "2015-10-09",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "70aef8c27d5149cc39631507332d9b02f75aa301e8355202a30bc756ab6766d4"
+    },
+    {
+     "from": "2015-11-03",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "75543120f6e3f47bf584204bc6fb267cc30c39fde37efcd5813cd12ea03f8044"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "7805aefeeb698b2567fb1f440862302ddb7282e85b5513ed922a2244905eaa5d"
+    },
+    {
+     "from": "2016-02-25",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a23b9b3bfb276e91ea78bbfb18ce26629ada6dbc0f8860d7754014fe7ff6d37d"
+    },
+    {
+     "from": "2016-04-05",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "fce900ed72df8e9f1e69822cf9c4e1941e6db7b61a01a6e19cc9170079603463"
+    },
+    {
+     "from": "2016-05-11",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "d6e02623c44fae30223ad182a712f760635abb818cd6d56276053627efeced81"
+    },
+    {
+     "from": "2016-05-26",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ae9744fd605d49e1bb44363467780f1302c63699f3bcba8d640362ec3fbfd58f"
+    },
+    {
+     "from": "2016-05-27",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "b5d2f9f699084b9e1ac25a4eec6c9b3e66ee10b8d0eeae7e1af295ac93cdbc6e"
+    },
+    {
+     "from": "2016-05-30",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "6220fa5b1d229de2fcffb3ff37b6ab5498662a97c1cb78fea5054eb92acfb266"
+    },
+    {
+     "from": "2016-06-27",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "50dd5d9864247479949fd7203633a64b537b7bd3bbeee44c98d03e6bcbfd9d03"
+    },
+    {
+     "from": "2016-11-09",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "65f34ed13cfc325aba0ad20d8c02b928f26507c4cce499695979de1433404d62"
+    },
+    {
+     "from": "2016-11-29",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "fac2ed0dc091e88a5f623901f6bdc3c2a170b1fd809f58bca8862f0fe44096df"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "23eb4cbb05a7ce4056ed2489517a17739b66ffd17ca6490eb52ec3242eb2ddf2"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "af34af10ead0b25fa4bdba0351c94a9468533df959a50d192d398352d0a0258b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "74093de3eef326753dc969bc2c8ce33c331cc1d7421dd1bfe5908a3a8a799022"
+    },
+    {
+     "from": "2017-05-29",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "f02ee09c3df13ca864a828a11da3678850db386d5b72dbae661ea3c1dd461f12"
+    },
+    {
+     "from": "2017-06-19",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a096dd1fdf631251576fdcaead117fafa408417810a7f05edee86a8fefac4cde"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "873f105dee9a7a03e06c67e2bdd3f381de4dfa843276e7711c5e0fb7295d605d"
+    },
+    {
+     "from": "2017-07-07",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "5b161f2a0eaa506f1f98ba9bf72d1762ad3de1959a29b6d864afc3c26019983f"
+    },
+    {
+     "from": "2017-10-11",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "2044ea8ba99023df4fe3d4e42ae329109f8ea7a8e399411e65325ca870ac8806"
+    },
+    {
+     "from": "2017-11-14",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e79e356537f2cbaac604dd490639a51eadc686b8bffff8f60821f3a11fe5b483"
+    },
+    {
+     "from": "2017-12-04",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ee884494f16979ba39f9e28f0761896b84cd1e9b7b570e04a9f18e7b9870800d"
+    },
+    {
+     "from": "2017-12-12",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "7f21611d0a7c3bfce3598d9e50a6ef4e58ae75a28fc54a365203e2271515830e"
+    },
+    {
+     "from": "2017-12-25",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "fadb879d4f205ac6377a9521e9102db1a5e160e6e94d9502d8e1d7e5eaab9aa4"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "9b46244cd5ba46881b366d71bd9c872f3304e69a6e08af36df2e3ed09dc8f88f"
+    },
+    {
+     "from": "2018-04-10",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "94bce2fa9cfdd19d9cf340c711828f9c6f2b3cacdadaae254de97881490eb3a7"
+    },
+    {
+     "from": "2018-05-10",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "25be5d63440bf485c804f2ef5f902f12259caaa1f2d1ab933cc3dcc4bc6a3318"
+    },
+    {
+     "from": "2018-05-11",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "cb42e3303449be748a385144068499aa805bb1df1df0755908fe0171cf840a28"
+    },
+    {
+     "from": "2018-06-05",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "b691238a236facdcd1e853e5f925e1db10ed759cc620b79e82bd340033a2cd22"
+    },
+    {
+     "from": "2018-06-09",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "14418be62c54191d4fa26e1a5ef95c3977451b27f82fa17eb241e9cc51e07463"
+    },
+    {
+     "from": "2018-07-10",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "37755aabdb9a83d8243e8bf66f0372be33be773a5ab12e8ea377a18c08e1e5a1"
+    },
+    {
+     "from": "2018-10-02",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "7668ea0f0f5c217019f63e9a5640526673e78fb1c1cd32aa5d31a747e4a3c739"
+    },
+    {
+     "from": "2018-10-26",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "81bba5b327583c1a311da1ae063edcb0529c2c901d1f28cb0d1edf2718a5443d"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "0053d36553c6f163d33489c3b81b397a20d6523405b99d944d1d8eeb422bd515"
+    },
+    {
+     "from": "2018-12-11",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "bd5b0296989270dab5d287663eb4f4525456529d0f9aa18a54a291d11ae094ae"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "77fca38c57fd84d2c176dced8a9146f8e281296a47bae4f01b8d7d9caa5fe0b7"
+    },
+    {
+     "from": "2018-12-26",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "9b88c1bd643105deefbce398a0e76bda3b1bf35af81b2bc0d18bd3dbc551567d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "42d9b94713bfaa20ddb2ba466d21e84aa0729e2375c10b930bb56c533a900c59"
+    },
+    {
+     "from": "2019-04-02",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "06b132d219f231caf4a3b97019e69af3a17444778236b0cac2ecd044de8a1b9a"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "f4c0d93e659e7accf3f5fedd2d0e8cd1e7a01002b94cce8f0cbf67d8442fff7f"
+    },
+    {
+     "from": "2019-04-09",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "27cf86aa885875b1dc0dc5a2dce05866e06be3614d22b4255fc46fd3faff3fa4"
+    },
+    {
+     "from": "2019-05-07",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e23c52543f828d3c7cf706aea7e2f408db271328aa56c67a8323292160103022"
+    },
+    {
+     "from": "2019-06-06",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ab4eea76575185d5b81311844f82a0b17b030ea14ded1ff68fb8a1aa345dd8b6"
+    },
+    {
+     "from": "2019-06-14",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "dbf333bddf6608caab1824f06b1238ef7b8d144f0df4b330e315e8d415044442"
+    },
+    {
+     "from": "2019-07-09",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "c6ec6c3119e61c80318f57eccf5765a9ee3c49876ba6f74cbc4fcd8e7ab7a408"
+    },
+    {
+     "from": "2019-10-09",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "0979f423b2e0918f1b1dc8cf0490079446f7c300140ed81321aa522c162f5871"
+    },
+    {
+     "from": "2019-10-14",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "8dac60d5958d0b38a2f0c5079b636474760bc34503981a1aa260b49ac222d965"
+    },
+    {
+     "from": "2019-11-11",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e63a6946bb2de2cdf4d6c683ecc14749f726beba3f7cbb4701e05ec743b033f1"
+    },
+    {
+     "from": "2019-12-09",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "15e849b775ed6b5c46b2f488a12e65aea6d233fe5e2e366630a3663aceea75e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "36fcfc071180530e83d435cf78e45ca7a01d2f82b82915bc248058ff07a180d7"
+    },
+    {
+     "from": "2020-03-19",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a9b37236fffc5f4330ba804cd02b45b7374e02ac43f41ecaba3de2ed609c5af3"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "45986ad6bc5155791f43bf9d91d44af38f8fe045088bbac8f7cb32dc4081a7c3"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "c7c0819755a5346161bed6a342a1f10d9210e616d678d97952904fad3e007013"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "06c263fe409c64f3682b26a423b7b693e7c646224b1968b56ba3af8e3e0a804c"
+    },
+    {
+     "from": "2020-07-09",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "d6ee3f27138ae5afac021220e64b6d248d73140a2b3210304d4f38af49b2be5e"
+    },
+    {
+     "from": "2020-10-02",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "b47f999cc49e2f037b6eb2b18a05c58c1197f8d344e2b77e99075d4890c03b1f"
+    },
+    {
+     "from": "2020-11-10",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "948231aacf844c1d794de6bad8f329d018601b8b3c650bce5144cb68492e1dfd"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "33e98a76be6f58b986be21348118802321d18401a22a6f1e79327b1e4980a738"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a8f5a91ed593ba60c4a5757ca3d8735e00a1f6ca4bd93638b9b2b40f09985bc7"
+    },
+    {
+     "from": "2021-06-09",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "59f4d1c58306695652ebdc586e6677f4dd7e28089c1db6535cb994118c4d24a6"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "35d92c7feecdd2a7dd4199c5e6ada9dd3386cdc97dbcb138b11b9afb532c4b9c"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ad58cd89b7dc5f2f270d5de2a0f75949d6c4a63b12da808e718ad12c6f102c19"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "04f0867a5c47acc8fea50094a24289235311e4be78892626a3a992420b17abc5"
+    },
+    {
+     "from": "2021-11-09",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "2635feb07d1795a274c07db640d089f3f665dcf02743cc9afc512c8aac92e3c8"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "8ffe3c24367188822b04515c68d3ab61dca3ee53e4493c71c2a5695f1ab1778e"
+    },
+    {
+     "from": "2021-12-07",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a34244ba457ac5332db3d5ade39201c68a45f4bfd2bdc4e693d419bbfc2918c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e55f35b53aac52a333c7cfd6264581321c8da36f9d139ac706cc9bafb8485e1d"
+    },
+    {
+     "from": "2022-03-03",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "758751b132337dc0f0d182c341386d132650c7bfd8d640aa8aa4aff6b6981f71"
+    },
+    {
+     "from": "2022-03-15",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "2b29cf225d3c7e7a99269d11e19aec95734381335952a7629d4d2aecb2e99722"
+    },
+    {
+     "from": "2022-04-05",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "68f1be0c25b0977ca2711a3ac8004eedb6dbdbb884938b12dd470bda8a5f0292"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "88307ca4cc038b3888e2dcad361b7399f621d9d824a5a2b52946919fe197241c"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a3610a4f028eed207c3d4c3cdd68f32899bda2378269ddb35dd93877b896db73"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "0cc9995fa8bdae554131534ac4863cb4faff893d444278c0c033eb358903b19c"
+    },
+    {
+     "from": "2022-06-03",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a40095ce5181158915525f32d2ccfe9e36c315c01cceae813278aa9e638e8bad"
+    },
+    {
+     "from": "2022-07-05",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "7c763a207985c7c74d4e81ef33f68c62e19511bdc94f6d00f2332701735e650b"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "c6679a17b7558b026a51f80a8ab112f6212775bed337cc641c8394799ffdea5a"
+    },
+    {
+     "from": "2022-10-25",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "4eba2f6637e08d0891082832c53e0167a90751ad59e2d5151bc7361d7745e68f"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a2749df276c2ee2b3ef6a66d208fb323faf89a1f92c627cf490c80c57ed7b188"
+    },
+    {
+     "from": "2022-12-08",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "3d1bbdb65078471245a6569dbe98e3d8b73660ce3e9a43828195f70b463d692a"
+    },
+    {
+     "from": "2022-12-12",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "396541655b9b8fd3dbaf9d049f8816f56d0b0988a9d66fc473377f320289604f"
+    },
+    {
+     "from": "2022-12-14",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "2cc50396879c73e2e181ca504f9a62402de7cbcbf2c1582050db119d5017d27e"
+    },
+    {
+     "from": "2022-12-16",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "825c0b80224eed53a3d3e7729aa033d02f30dbd6a12dd8fbaec4de605a03dc60"
+    },
+    {
+     "from": "2022-12-20",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "1fa7324aca42f888a74ba02e2ed666a8c5a40401a3fcab27903545029762d532"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "f138683c52e4c4950da7bf0b9b5baacd92bc77098a24591650a34e65082f5e1d"
+    },
+    {
+     "from": "2022-12-26",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e0c5abea472ffc99e96cb12685a30458198f8d7b06397cab745bf85b7185c5a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a74a0bfdbdb65bd35542b2f015a9a663dd8a96faf891dccc20877d214005125e"
+    },
+    {
+     "from": "2023-03-13",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "b1b5eb4a0eb4fadda53f533c079f5c1e4325bb9e7b0865816a7d2463699af7a0"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "81097bcf53b6f596c808202d67ea73523fb7abc8124ed674d660012da0c6b94c"
+    },
+    {
+     "from": "2023-04-10",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "6e8c91caf3356250b7e1c48d575c3eeffa86e9e7d8bfe4df60011b22504f55c3"
+    },
+    {
+     "from": "2023-05-05",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ce326c502565badac87854416d06deee6e1e0dc489fcd2ebc4bfd5dff7fec88e"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a5af287f0e6a3e392771655330832ac2cb6f61dbd9257fba2cd218d610ef5ce9"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "d944a011225b4a6aad0d9bbf06251ba85d48f76eedd855b986748c646366c112"
+    },
+    {
+     "from": "2023-09-21",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "5f485936bf3b370e6ca8e5a832ef5a25cd1d37be25c382fd86fce792e69b9b5b"
+    },
+    {
+     "from": "2023-10-16",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "512b3f5a881594f52a4dab4185268def3b320aa390cdc813c5353b6fe2f3e6fb"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "c87c65da5bc8441fc7f451abfae19e0aba864adb6fe5903475930208cc3ac0e4"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "32313fb2e03a5b48dcf508f92918694aaa255710fd3c1afc21e117a509107c94"
+    },
+    {
+     "from": "2023-12-22",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "b7b30a9698e78bfb32c88c43194da15323dc8d5a9f22d26257ab48fbf7d29f76"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "74d72f2136d47ab5de8d6072813f760fafe0d7f2881ffb839025a672d47517b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "1107360cd16cc42e9da390b62390580006aa8eb4c6f7e970a9d1f3dd90c5bd35"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "4c288d9b24aba10fd01c9d4157af58a814337550b393083deb464227480c35e9"
+    },
+    {
+     "from": "2024-04-24",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "017eabffb9fb97dcd0bee88fd31ac087f43cc31b3fe24e49aa2b8898dc145eec"
+    },
+    {
+     "from": "2024-04-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "582e1a3bcf770fd14cddc56b6129f035567724f3aa8ad19916bfa370091647b1"
+    },
+    {
+     "from": "2024-05-28",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "e4e09a96c0b9ade1b11b6999297c5f7bed0587df4f276fa92413f5e44f7deb3c"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "a1b1c6ab59f3dd19d7322be8439f39290f6b425600874c16cc2f74e1292cd8e0"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "134f401cff843685fb812fd1767e71b88d908b8cf6b23770a7ba64a99bd02f9c"
+    },
+    {
+     "from": "2024-10-02",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "071414a406350cbe68f33efdef7bdd745d9cd82099ac016403c427920a1478e7"
+    },
+    {
+     "from": "2024-11-11",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "9aa15381864325c686e81815dfb82ed4fdd1aca9719cb45e14730a944b86ad50"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "0683b7d3ec688ca6539f57bbb07d453808747506d7213399fd50455bdcc19978"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "3dbdd45bdea4341b9c11a9ac9960e1add0f27ad1928a95f4c12430a8a62e6f8d"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "c487173462783afc214e2851db66f4596cd239f5ea00cbf70988fa5c77f25cb4"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ba835142852f99e3e694950740849a4a066444b8228e19aa85da286870765591"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "1840183965f88432b8f47e41efc26b99e709f6759965f44680c404200f3284fa"
+    },
+    {
+     "from": "2025-02-27",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "629d8243f27c5111d03978069e3ecfcaeac83a6bf9d65334ec3cfe8f5a5a2135"
+    },
+    {
+     "from": "2025-02-28",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "1aa0c2e75e7fb7e099502ded596af35551808d130ea4dad0225e3b31e165a58c"
+    },
+    {
+     "from": "2025-04-28",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "1b8d5a7021aca1eb73af60cca3221d5ac953f50388627af23cd1aa4aef901ecd"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "ca97e42ece3c73085514053ce6af7a745411d8ebb54610226c04deda61eebb6c"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "28cad61c922339e1c85bd866143f43016b639bff00de23dcc4946cc28cd712e4"
+    },
+    {
+     "from": "2025-11-06",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "fbdbf50db0bd692e860779fc71382fdef1eb97677987c6b9c43043caab715225"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "76014fcc967746dc51f32c56aa85ba91cff2da96b9bee07c86027a17dab67271"
+    },
+    {
+     "from": "2025-12-26",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "5b3ae1406496614a23aa9bceab9031cb3c0b8c1ba5c9b50beb468b9a6e65f95c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Murmansk Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region51",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "3d623ea3eee3094e4149ab1a692668372ea6d5c37c49593c242a83239ec1af74"
+    },
+    {
+     "from": "2026-03-11",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "7232caed7626ef05cd214aa6bcaec691cd63575c9b95cfa0735e1cd6a88e6d27"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "be0c566c43f45ebf3b6d69ef0a5eeba9aa386cd170a8b8b2d75e48bf83b7d49e"
+    },
+    {
+     "from": "2026-03-30",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "4073ddad0cff1d915a304df681e6fdb80aaa7119df312314e37722ae76a33907"
+    },
+    {
+     "from": "2026-06-02",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "82c33518fd1d372987f380282369f30aec94a824ea766d975eaf510d4c24ab88"
+    },
+    {
+     "from": "2026-06-24",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "f5533e4c09f85caf071821d5c03dcdbe64a618a60cf84fd0d34d0ec087423a6b"
+    },
+    {
+     "from": "2026-07-03",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region51",
+     "sha256": "073592af56604af9001b7a3e487cc7171fbbd012652d865da1078918cfdf2051"
+    }
+   ]
+  }
+ ]
+}
