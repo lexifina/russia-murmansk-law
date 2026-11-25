@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:16:39Z",
+ "generated": "2026-11-25T07:01:03Z",
  "latest": {
   "pravo-murmansk|russia/murmansk/acts": {
    "attempt": 1,
@@ -13,39 +13,25 @@
    },
    "census": {
     "checked": 941,
-    "current": 932,
+    "current": 941,
     "gone": 0,
-    "held": 932,
-    "newest_in_repo": "2026-07-03",
-    "pending": 9,
-    "repo": 932,
+    "held": 941,
+    "newest_in_repo": "2026-11-09",
+    "pending": 0,
+    "repo": 941,
     "source_in_scope": 941
    },
-   "check_id": "ru-pravo-murmansk-20261124T141327Z",
-   "commits": {
-    "count": 2,
-    "from": "4f38f8a3fa891676cb71c68bc15c7e9381a422a9",
-    "to": "d455269c257b59ff4693b95da90f39002b9cd142"
-   },
+   "check_id": "ru-pravo-murmansk-20261125T061710Z",
+   "commits": null,
    "corpus": "russia/murmansk/acts",
    "error": null,
-   "finished": "2026-11-24T14:16:39Z",
+   "finished": "2026-11-25T06:17:40Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region51: 941 law-type documents listed (every page read); 932 held here; 9 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region51: 941 law-type documents listed (every page read); 941 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "5100202611090002",
-     "5100202611090003",
-     "5100202611090004",
-     "5100202611090005",
-     "5100202611090006",
-     "5100202611090007",
-     "5100202611090008",
-     "5100202611090009",
-     "5100202611090010"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -53,36 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "5100202611090002",
-     "5100202611090003",
-     "5100202611090004",
-     "5100202611090005",
-     "5100202611090006",
-     "5100202611090007",
-     "5100202611090008",
-     "5100202611090009",
-     "5100202611090010"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "941 law-type documents in block region51; newest published 2026-11-09",
    "source": "pravo-murmansk",
-   "started": "2026-11-24T14:13:27Z",
+   "started": "2026-11-25T06:17:10Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

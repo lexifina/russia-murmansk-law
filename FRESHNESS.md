@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Murmansk Oblast: Official Internet Portal of Legal Information (region51) · `russia/murmansk/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 14:16 UTC**.
-- Acts held here: 932; current at the source: 932; changed at the source since the version held here: 9; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 06:17 UTC**.
+- Acts held here: 941; current at the source: 941; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
