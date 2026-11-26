@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:01:03Z",
+ "generated": "2026-11-26T06:18:08Z",
  "latest": {
   "pravo-murmansk|russia/murmansk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 941,
     "source_in_scope": 941
    },
-   "check_id": "ru-pravo-murmansk-20261125T061710Z",
+   "check_id": "ru-pravo-murmansk-20261126T054312Z",
    "commits": null,
    "corpus": "russia/murmansk/acts",
    "error": null,
-   "finished": "2026-11-25T06:17:40Z",
+   "finished": "2026-11-26T05:43:44Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region51: 941 law-type documents listed (every page read); 941 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "941 law-type documents in block region51; newest published 2026-11-09",
    "source": "pravo-murmansk",
-   "started": "2026-11-25T06:17:10Z",
+   "started": "2026-11-26T05:43:12Z",
    "unexplained": 0,
    "update": {
     "parts": []
